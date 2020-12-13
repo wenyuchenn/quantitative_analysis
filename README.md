@@ -10,5 +10,5 @@ Term structure of interest rates, commonly known as the yield curve, depicts the
 https://www.investopedia.com/terms/t/termstructure.asp#:~:text=Essentially%2C%20term%20structure%20of%20interest,current%20state%20of%20an%20economy.
 ![](images/bond1.PNG)
 ![](images/bond2.PNG)
-![](images/bond3.PNG)
-![](images/bond4.PNG)
+![](images/bond3.png)
+![](images/bond4.png)
