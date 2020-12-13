@@ -12,3 +12,11 @@ https://www.investopedia.com/terms/t/termstructure.asp#:~:text=Essentially%2C%20
 ![](images/bond2.PNG)
 ![](images/bond3.png)
 ![](images/bond4.png)
+
+3. Credit Default Swap Term Structure\
+A credit default swap (CDS) is a financial derivative or contract that allows an investor to "swap" or offset his or her credit risk with that of another investor.\
+The term structure of CDS spreads reflects the shape of the conditional risk-neutral default probability over different time horizons. Under structural models of credit risk, default is value based, and typically results from a decline in the value of operational cash flows.\
+https://www.investopedia.com/terms/c/creditdefaultswap.asp
+https://www.sciencedirect.com/science/article/abs/pii/S0927539815000055#:~:text=The%20term%20structure%20of%20CDS%20spreads%20reflects%20the%20shape%20of,value%20of%20operational%20cash%20flows.
+![](images/CDS.PNG)
+![](images/CDS_1.png)
