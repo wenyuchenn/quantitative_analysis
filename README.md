@@ -30,6 +30,6 @@ https://www.investopedia.com/terms/b/blackscholes.asp#:~:text=Also%20called%20Bl
 
 ![](images/bs.PNG)
 
-4.2 Monte Carlo Option Pricing\
+4.2 Monte Carlo Option Pricing Chart
 
 ![](images/mc_option.png)
