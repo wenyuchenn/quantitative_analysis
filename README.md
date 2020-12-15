@@ -21,13 +21,13 @@ https://www.sciencedirect.com/science/article/abs/pii/S0927539815000055#:~:text=
 ![](images/CDS_1.png)
 
 
-4.1 Black Scholes Option Pricing Model\
+4. Black Scholes Option Pricing Model\
 The Black Scholes model, also known as the Black-Scholes-Merton (BSM) model, is a mathematical model for pricing an options contract.\
 https://www.investopedia.com/terms/b/blackscholes.asp#:~:text=Also%20called%20Black%2DScholes%2DMerton,to%20expiration%20and%20expected%20volatility.
 
 ![](images/bs.PNG)
 
-4.2 Monte Carlo Option Pricing Chart
+5. Monte Carlo Option Pricing Chart\
 In mathematical finance, a Monte Carlo option model uses Monte Carlo methods to calculate the value of an option with multiple sources of uncertainty or with complicated features.\
 https://medium.com/swlh/option-pricing-using-monte-carlo-simulations-41d9e4ad95f6
 
