@@ -18,7 +18,6 @@ A credit default swap (CDS) is a financial derivative or contract that allows an
 https://www.investopedia.com/terms/c/creditdefaultswap.asp
 https://www.sciencedirect.com/science/article/abs/pii/S0927539815000055#:~:text=The%20term%20structure%20of%20CDS%20spreads%20reflects%20the%20shape%20of,value%20of%20operational%20cash%20flows.
 
-![](images/CDS.PNG)
 ![](images/CDS_1.png)
 
 
@@ -29,5 +28,7 @@ https://www.investopedia.com/terms/b/blackscholes.asp#:~:text=Also%20called%20Bl
 ![](images/bs.PNG)
 
 4.2 Monte Carlo Option Pricing Chart
+In mathematical finance, a Monte Carlo option model uses Monte Carlo methods to calculate the value of an option with multiple sources of uncertainty or with complicated features.\
+https://medium.com/swlh/option-pricing-using-monte-carlo-simulations-41d9e4ad95f6
 
 ![](images/mc_option.png)
